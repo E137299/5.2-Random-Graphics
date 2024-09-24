@@ -10,8 +10,6 @@ public class Display extends JPanel{
 	public void paintComponent(Graphics g){
 		super.paintComponent(g); //satisfies the parent class' requirements.
 		setBackground(Color.WHITE);
-		RandomGraphics one = new RandomGraphics(10,10,780,780);
-		one.drawGrid(g);
         
 	}
 }

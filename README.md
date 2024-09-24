@@ -108,7 +108,7 @@ To generate a random color, use the `Math.random()` to produce three random valu
 4. One cell displaying a **non-random box** with predefined colors.
 
 ---
-
+![Random Graphics](randomgraphics.png)
 ### **Grading Criteria**
 
 - **70 Points**: One cell is correctly filled with random graphics objects.
@@ -116,4 +116,3 @@ To generate a random color, use the `Math.random()` to produce three random valu
 - **90 Points**: Three cells are filled with random graphics objects.
 - **100 Points**: All four cells are filled with their respective graphics objects, and all randomness behaves correctly.
 
-This assignment tests your ability to work with the `Random` class, graphical objects, and ensuring elements are drawn within specified bounds.

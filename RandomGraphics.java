@@ -20,4 +20,6 @@ public class RandomGraphics {
         g.drawLine(x + width / 2, y, x + width / 2, y + height); // Vertical line
         g.drawLine(x, y + height / 2, x + width, y + height / 2); // Horizontal line
     }
+
+
 }
